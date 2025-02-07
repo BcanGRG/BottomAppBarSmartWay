@@ -4,7 +4,7 @@
 
 ## 🎬 Demo
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4868dda8-db50-43d1-84c4-3cfa4ecc8faa" width="350" height="auto"/>
+  <img src="https://github.com/user-attachments/assets/4868dda8-db50-43d1-84c4-3cfa4ecc8faa" width="350" height="600"/>
 </p>
 
 
